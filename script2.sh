@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This pipeline works!"
+echo "This pipeline works! Updating my config"
